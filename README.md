@@ -26,14 +26,14 @@ python+pyqt6开发，快捷配置vscode的C语言环境
 - 确保使用管理员身份运行   
 - 不要随意修改路径
 
-##### 下载zip压缩包  
+#### 下载zip压缩包  
 <img src="img/1-2.png" height="300" alt="图片说明">   
 
-##### 本地解压   
+#### 本地解压   
 1.不要有中文路径   
 2.自行选择解压位置   
 
-##### 安装vscode（已安装跳过）
+#### 安装vscode（已安装跳过）
 1.双击安装，如果需要其他版本可以从官网下载https://code.visualstudio.com/   
 <img src="img/2-1.png" height="300" alt="图片说明">   
 
@@ -50,7 +50,7 @@ python+pyqt6开发，快捷配置vscode的C语言环境
 5.同理，安装以下插件   
 <img src="img/2-5.png" height="300" alt="图片说明">   
 
-##### 启动配置程序
+#### 启动配置程序
 1.以管理员身份运行“vscode_auto_v2.0”   
 <img src="img/3-1.png" height="300" alt="图片说明">   
 
@@ -66,7 +66,7 @@ python+pyqt6开发，快捷配置vscode的C语言环境
 5.没有错误提示就是配置成功   
 <img src="img/3-5.png" height="300" alt="图片说明">   
 
-##### 测试
+#### 测试
 1.打开“c_cpp”文件夹   
 - 方法一:   
 右键文件夹，选择“通过code打开”   
@@ -87,3 +87,6 @@ vscode软件左上角选择“文件” -> “打开文件夹”
 
 4.运行成功   
 <img src="img/4-6.png" height="300" alt="图片说明">   
+#### 作者
+[早上坏](https://gitee.com/ngc2237ultra)   
+联系方式：QQ3271804975
