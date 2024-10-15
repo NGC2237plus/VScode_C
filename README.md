@@ -89,4 +89,6 @@ vscode软件左上角选择“文件” -> “打开文件夹”
 <img src="img/4-6.png" height="300" alt="图片说明">   
 #### 作者
 [早上坏](https://gitee.com/ngc2237ultra)   
-联系方式：QQ3271804975
+#### 联系方式   
+QQ：3093236313
+邮箱：star32349@outlook.com
