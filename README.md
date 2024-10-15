@@ -90,5 +90,5 @@ vscode软件左上角选择“文件” -> “打开文件夹”
 #### 作者
 [早上坏](https://gitee.com/ngc2237ultra)   
 #### 联系方式   
-QQ：3093236313
+QQ：3093236313   
 邮箱：star32349@outlook.com
