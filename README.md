@@ -80,10 +80,10 @@ vscode软件左上角选择“文件” -> “打开文件夹”
 <img src="img/4-3.png" height="300" alt="图片说明">
 
 2.选择一个文件，c是C语言，cpp是c++，在右上角选择“运行”   
-<img src="img/4-4.png" height="300" alt="图片说明">   
+<img src="img/4-4-.png" height="300" alt="图片说明">   
 
 3.选择“(Windows) Launch”   
-<img src="img/4-5.png" height="300" alt="图片说明">   
+<img src="img/4-5-.png" height="300" alt="图片说明">   
 
 4.运行成功   
 <img src="img/4-6.png" height="300" alt="图片说明">   
