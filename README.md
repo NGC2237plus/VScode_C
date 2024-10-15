@@ -26,23 +26,22 @@ python+pyqt6开发，快捷配置vscode的C语言环境
 - 确保使用管理员身份运行   
 - 不要随意修改路径
 
-###### 下载zip压缩包
-![输入图片说明](img/1-1.png)![输入图片说明](img/1-2.png)
-
+###### 下载zip压缩包  
+<img src="img/1-2.png" height="300" alt="图片说明">   
 ###### 本地解压
 1.不要有中文路径
 2.自行选择解压位置
 
 ###### 安装vscode（已安装跳过）
 1.双击安装，如果需要其他版本可以从官网下载https://code.visualstudio.com/   
-![输入图片说明](img/2-1.png)   
+<img src="img/2-1.png" height="300" alt="图片说明">   
 2.选择“同意”   
-![输入图片说明](img/2-2.png)   
+<img src="img/2-2.png" height="300" alt="图片说明">   
 3.全部打勾   
-![输入图片说明](img/2-3.png)   
+<img src="img/2-3.png" height="300" alt="图片说明">   
 4.搜索chinese安装中文插件，安装完成右下角会提示重启，重启即可。    
 如果还是英文，找度娘。   
-![输入图片说明](img/2-4.png)   
+<img src="img/2-4.png" height="300" alt="图片说明">   
 5.同理，安装以下插件
 
 ###### 启动配置程序
