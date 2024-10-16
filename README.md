@@ -27,10 +27,9 @@ python+pyqt6开发，快捷配置vscode的C语言环境
 - 不要随意修改路径
 
 #### 下载zip压缩包  
-'''
 <img src="img/1-1.png" height="300" alt="图片说明">  
 <img src="img/1-2.png" height="300" alt="图片说明">   
-'''
+
 #### 本地解压   
 1.不要有中文路径   
 2.自行选择解压位置   
