@@ -67,7 +67,8 @@ python+pyqt6开发，快捷配置vscode的C语言环境
 5.没有错误提示就是配置成功   
 <img src="img/3-5.png" height="300" alt="图片说明">   
 
-<h1 align="center" style="color: red; font-size: 2.5em;">配置完成建议重启电脑！</h1>   
+> [!Note]
+> <h1 align="center" style="color: red; font-size: 2.5em;">配置完成建议重启电脑！</h1>   
    
 #### 测试
 1.打开“c_cpp”文件夹   
