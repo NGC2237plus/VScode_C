@@ -9,13 +9,13 @@ python+pyqt6开发，快捷配置vscode的C语言环境
   <p align="center">
     快捷配置vscode的C语言环境
     <br />
-    <a href="https://gitee.com/ngc2237ultra/VScode_c"><strong>项目</strong></a>
+    <a href="https://github.com/NGC2237plus/VScode_C"><strong>项目</strong></a>
     <br />
     <br />
     ·
-    <a href="https://gitee.com/ngc2237ultra/VScode_c/issues">报告Bug</a>
+    <a href="https://github.com/NGC2237plus/VScode_C/issues">报告Bug</a>
     ·
-    <a href="https://gitee.com/ngc2237ultra/VScode_c/issues">提出新特性</a>
+    <a href="https://github.com/NGC2237plus/VScode_C/issues">提出新特性</a>
   </p>
 
 </p>
